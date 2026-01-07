@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Pankaj Dagade
 
 <p align="center">
-  <img src="png.gif" width="1000" />
+  <img src="png.gif" width="800" />
 </p>
 
 <!--
