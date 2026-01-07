@@ -8,11 +8,16 @@
 
 ## 💼 What I Do
 
+## 💼 What I Do
+
 🔹 **Backend Development**  
-Building scalable and secure applications using Java, Spring Boot, Microservices, and REST APIs  
+Designing and building scalable, secure applications using Java, Spring Boot, Microservices, and REST APIs  
 
 🔹 **Frontend Development**  
-Creating responsive user interfaces with Angular, HTML, CSS, and Bootstrap  
+Developing responsive and user-friendly interfaces with Angular, HTML, CSS, and Bootstrap  
+
+🔹 **Database Technologies**  
+Working with MySQL, PostgreSQL, and ORM frameworks like Hibernate / JPA  
 
 
 - 🔭 I’m currently working on ...
