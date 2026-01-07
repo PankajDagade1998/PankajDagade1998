@@ -6,7 +6,14 @@
 
 ### 🚀 Full-Stack & Backend Engineer | Spring Boot & Microservices 🇮🇳
 
-Here are some ideas to get you started:
+## 💼 What I Do
+
+🔹 **Backend Development**  
+Building scalable and secure applications using Java, Spring Boot, Microservices, and REST APIs  
+
+🔹 **Frontend Development**  
+Creating responsive user interfaces with Angular, HTML, CSS, and Bootstrap  
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
