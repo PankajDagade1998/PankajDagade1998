@@ -1,7 +1,12 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="images/mypic.png" width="200" />
+</p>
+
 <!--
 **PankajDagade1998/PankajDagade1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
@@ -13,4 +18,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
