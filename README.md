@@ -12,7 +12,7 @@
 Designing and building scalable, secure applications using Java, Spring Boot, Microservices, and REST APIs  
 
 🔹 **Frontend Development**  
-Developing responsive and user-friendly interfaces with Angular, HTML, CSS, and Bootstrap  
+Developing responsive and user-friendly interfaces with ReactJS, HTML, CSS  
 
 🔹 **Database Technologies**  
 Working with MySQL, PostgreSQL, and ORM frameworks like Hibernate / JPA  
