@@ -16,3 +16,7 @@ Developing responsive and user-friendly interfaces with ReactJS, HTML, CSS
 
 🔹 **Database Technologies**  
 Working with MySQL, PostgreSQL, and ORM frameworks like Hibernate / JPA  
+
+🔹 ### 📫 How to Reach Me
+- LinkedIn: www.linkedin.com/in/pankajdagade
+- Email: pankajdagade84@gmail.com
